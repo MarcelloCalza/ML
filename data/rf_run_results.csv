@@ -1,0 +1,2 @@
+criterion,max_depth,min_samples_leaf,min_impurity_decrease,n_estimators,max_features,train_error,cv_error,test_error
+psi3,25,10,0.0001,50,6,0.0012690615085456964,0.0009210909451984257,0.0010643523825118715
