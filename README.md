@@ -22,5 +22,5 @@ Contains plots PNGs produced by run.py through the plotting function in diagnost
 
 The project is implemented using raw Python and the code is fully commented.
 The average time to build a tree should be around 6-7s, however CV tuning for the tree/random forests 
-and random forests building can take long because more trees needs to be built. Also capacity parameter
-sweeping can take even longer depending on the values of the capacity parameter.
+and random forests building can take long because multiple trees needs to be built. Also capacity 
+parameter sweeping can take even longer depending on the values of the capacity parameter.
