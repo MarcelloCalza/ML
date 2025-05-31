@@ -21,3 +21,10 @@ Contains just the impurity functions
 
 # report/
 Contains all the latex files of the report (and the report's pdf)
+
+# data/
+Contains some CSVs of the intermediate results of run.py that i saved
+
+# plots/
+Contains plots PNGs produced by run.py through the plotting function in diagnostics.py
+
