@@ -10,7 +10,7 @@ Contains the random forest class (RandomForest).
 # mushroom/tuning.py
 Contains the functions used for single level K-fold CV tuning for both the trees and the random forests.
 # mushroom/diagnostics.py
-Contains the functions used to execute empirical bias/variance analysis.
+Contains the functions used to execute empirical approximated bias/variance analysis.
 # mushroom/criteria.py
 Contains just the impurity functions.
 # report/
